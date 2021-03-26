@@ -24,11 +24,11 @@
 		<div class="container">
 			<h1><a href="">EDU-COVID</a></h1>
 			<ul>
-				<li><a href="index.html">Beranda</a></li>
-				<li><a href="pencegahan.html">Pencegahan COVID</a></li>
-				<li><a href="data.html">Data dan Statistik</a></li>
-				<li><a href="kuis.html">Kuis</a></li>
-				<li class="active"><a href="kontak.html">Kontak</a></li>
+				<li><a href="index.php">Beranda</a></li>
+				<li><a href="pencegahan.php">Pencegahan COVID</a></li>
+				<li><a href="data.php">Data dan Statistik</a></li>
+				<li><a href="kuis.php">Kuis</a></li>
+				<li class="active"><a href="kontak.php">Kontak</a></li>
 			</ul>
 		</div>
 	</header>
